@@ -8,8 +8,8 @@
 # Keys
 This repository contains public information about my GnuPG key, including:
 
-  - [Current public key](https://gitlab.com/daemma/keys/raw/master/0xD62EE11516877AA8.asc)
-  - [Current key policies](https://gitlab.com/daemma/keys/blob/master/policy.md)
+  - [Current public key](https://raw.githubusercontent.com/daemma/keys/master/0xD62EE11516877AA8.asc)
+  - [Current key policies](https://github.com/daemma/keys/blob/master/policy.md)
 
 <!--end Readme.md -->
 <!--#########################################################################-->
