@@ -6,10 +6,10 @@
 <!-- @copyright  GPLv3+ -->
 
 # Keys
-This repository contains public information about my GnuPG key, including:
+This repository contains public information about my cryptographic keys, including:
 
-  - [Current public key](https://raw.githubusercontent.com/daemma/keys/master/0xD62EE11516877AA8.asc)
-  - [Current key policies](https://github.com/daemma/keys/blob/master/policy.md)
+  - [Key Policies](https://github.com/daemma/keys/blob/master/policy.md)
+  - [RSA Public Key](https://raw.githubusercontent.com/daemma/keys/master/0xD62EE11516877AA8.asc)
 
 <!--end Readme.md -->
 <!--#########################################################################-->
