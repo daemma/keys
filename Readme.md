@@ -13,6 +13,7 @@ including:
 	to help you decide whether, or how much, to trust my keys.
   - My primary [RSA Public Key](https://raw.githubusercontent.com/daemma/keys/master/rsa/0xD62EE11516877AA8.asc)
 	with fingerprint: `99DB AE95 5566 2741 A00D  F7AF D62E E115 1687 7AA8`
+	See also my [keybase.io](https://keybase.io/daemma) page.
 
 <!--end Readme.md -->
 <!--#########################################################################-->
