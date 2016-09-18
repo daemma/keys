@@ -1,3 +1,3 @@
 *~
-local-certs/
-secret/secret.tgz.gpg
+rsa/local-certs/
+rsa/secret/secret.tgz.gpg
