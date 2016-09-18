@@ -8,12 +8,11 @@
 # Keys
 This repository contains public information about my cryptographic keys, 
 including:
-
-  - My [Key Policies](https://github.com/daemma/keys/blob/master/policy.md), 
-	to help you decide whether, or how much, to trust my keys.
-  - My primary [RSA Public Key](https://raw.githubusercontent.com/daemma/keys/master/rsa/0xD62EE11516877AA8.asc)
-	with fingerprint: `99DB AE95 5566 2741 A00D  F7AF D62E E115 1687 7AA8`
-	See also my [keybase.io](https://keybase.io/daemma) page.
+  - [Key Policies](https://github.com/daemma/keys/blob/master/policy.md): 
+	to help you decide whether, or to what degree, to trust my keys.
+  - [RSA Public Key](https://raw.githubusercontent.com/daemma/keys/master/rsa/0xD62EE11516877AA8.asc):
+	 - `99DB AE95 5566 2741 A00D  F7AF D62E E115 1687 7AA8`
+	 - [keybase.io](https://keybase.io/daemma)
 
 <!--end Readme.md -->
 <!--#########################################################################-->
