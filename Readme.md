@@ -6,7 +6,7 @@
 <!-- @copyright  GPLv3+ -->
 
 # Keys
-This project has moved to (gitlab.com/daemma/keys)[https://gitlab.com/daemma/keys]
+This project has moved to [gitlab.com/daemma/keys](https://gitlab.com/daemma/keys)
 
 <!--end Readme.md -->
 <!--#########################################################################-->
